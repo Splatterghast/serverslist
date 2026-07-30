@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfServerItem>
     <ServerItem>
+    <id>59544be2-9435-400d-a589-30b2a39ed071</id>
+    <name>Newfoundland</name>
+    <description>New Feb 2026. End of retail server. All Weclome (Free buffbot Yaraq)</description>
+    <emu>ACE</emu>
+    <server_host>rftc.duckdns.org</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/A5AHWZFUAa</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>2d7bfb40-7726-4951-b65f-b4948807e602</id>
+    <name>Conquest</name>
+    <description>Custom PvE server with live events, deep crafting, active development, and PK system.</description>
+    <emu>ACE</emu>
+    <server_host>ACConquest.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url>https://dsc.gg/conquerac</website_url>
+    <discord_url>https://discord.gg/Gsadhhv72S</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>b5bde7a5-537c-4665-8714-b7b097e73964</id>
+    <name>NoESCapeGames</name>
+    <description>RetailLike with Modded NPCs to get you where you was on your last server.</description>
+    <emu>ACE</emu>
+    <server_host>noescapegames.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Development</status>
+    <website_url>http://noescapegames.com</website_url>
+    <discord_url>https://discord.gg/46C8afEVs4</discord_url>
+  </ServerItem>
+  <ServerItem>
     <id>99b5533c-196a-4d38-8db1-dbad7a91d7a2</id>
     <name>Nexus</name>
     <description>PvP/PvE hybrid server. Custom content, balanced combat,very active development.</description>
@@ -36,7 +72,7 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/KtNxP8CaZt</discord_url>
   </ServerItem>
-    <ServerItem>
+  <ServerItem>
     <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
     <name>Infinite Frosthaven</name>
     <description>Active play rewarded! Earn permanent account-wide increased XP% from completing quests. No level cap. Magic learned from looted scrolls only. Custom content. </description>
@@ -265,18 +301,6 @@
     <discord_url>https://discord.gg/gJCYTr5fPU</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>42f43f32-a3ce-401c-a62c-9214e725c892</id>
-    <name>Morntide</name>
-    <description>PvE 3-account limit end-of-retail server with retro content additions. Requires MegaDat.</description>
-    <emu>ACE</emu>
-    <server_host>play.morntide.net</server_host>
-    <server_port>9000</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url>https://morntide.net</website_url>
-    <discord_url>https://discord.gg/7Gcc2XFqhJ</discord_url>
-  </ServerItem>
-  <ServerItem>
     <id>94bb861b-5ca2-4105-bc1b-d41519301780</id>
     <name>Modclaim</name>
     <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator with addition of "persistent arrows".</description>
@@ -389,7 +413,7 @@
     <name>The Tower</name>
     <description>Roguelite experience. Climb The Tower, defeat the bosses, and find the secrets within. Linear progression. WIP.</description>
     <emu>ACE</emu>
-    <server_host>174.164.224.80</server_host>
+    <server_host>the-tower.ddns.net</server_host>
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
@@ -409,18 +433,6 @@
     <discord_url>https://discord.gg/yMkzW3yAd4</discord_url>
   </ServerItem>
   <ServerItem>
-    <id>b0fda6d4-adfe-449f-ab72-384367e8c3d4</id>
-    <name>ValHeel</name>
-    <description>An enhanced PvE server, completely ahead of it's time. TONS of custom content to explore, with classes of DPS, Tank, or Healer. Many bugs have been squashed.</description>
-    <emu>ACE</emu>
-    <server_host>valheel.ddns.net</server_host>
-    <server_port>9012</server_port>
-    <type>PvE</type>
-    <status>Stable</status>
-    <website_url>https://valheel.lingrad.net</website_url>
-    <discord_url>https://discord.gg/6zPQ8Nx2pY</discord_url>
-  </ServerItem>
-    <ServerItem>
     <id>748ec71c-961e-472b-955c-7bc850c2ac3e</id>
     <name>CABA</name>
     <description>PK Server with QOL Improvements - repaired subway, updated facility hub and some portal networks, reduced restrictions on Olthoi play, eased housing restrictions</description>
@@ -475,7 +487,7 @@
     <emu>ACE</emu>
     <server_host>leafdawn.hopto.org</server_host>
     <server_port>9000</server_port>
-    <type>PvP</type>
+    <type>PvE</type>
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/c2QUBPwPZF</discord_url>
@@ -489,7 +501,43 @@
     <server_port>9000</server_port>
     <type>PvE</type>
     <status>Stable</status>
-    <website_url></website_url>
+    <website_url>https://harvestagain.net/</website_url>
     <discord_url>https://discord.gg/znS865qNx8</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>8bdfb181-b68e-4bcb-bd2b-656b6d997d41</id>
+    <name>Mistwood</name>
+    <description>Balanced for Solo/Small groups. Level Cap, XP, and Luminance increased. Enhanced loot. Convenience NPCs in Marketplace.</description>
+    <emu>ACE</emu>
+    <server_host>mistwood.ddns.net</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/UMjW7qckpb</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>ff2ba4ee-aeaa-4870-92a7-3dc203e7e76c</id>
+    <name>Eversong</name>
+    <description>Five difficulty worlds, quest bonuses, enlightenment &amp; milestones, banking &amp; lockboxes, invasions, optional classes.</description>
+    <emu>ACE</emu>
+    <server_host>eversong.abrdns.com</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/9eHxTb7p2J</discord_url>
+  </ServerItem>
+  <ServerItem>
+    <id>ff2af6c8-01ec-4414-8466-23bce7b09663</id>
+    <name>PortalStorm</name>
+    <description>15 Tiers, 10 Enlightenments, Infinite Lum Augs, Optional Hard Mode, Custom Skills, Years of custom content.</description>
+    <emu>ACE</emu>
+    <server_host>ac.portalstorm.us.com</server_host>
+    <server_port>9020</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url>https://discord.gg/YeX6mupcf</discord_url>
   </ServerItem>
 </ArrayOfServerItem>
